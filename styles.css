@@ -4,9 +4,11 @@ body{
 h1{
     text-align: center;
     background-color: lightgray;
+    color: black;
 }
 #b{
     width: 100px;
     background-color: black;
+    color: white;
    
 }
