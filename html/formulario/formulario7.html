@@ -20,6 +20,41 @@
         </td>
     </table>
     <h2>Formulario 7</h2>
-    
+    <form>
+        <fieldset>
+            <legend>Completar</legend>
+            <p>DNI <input type="text" name="dni"></p>
+            <p>Nombre <input type="text" name="nombre"></p>
+            <p>Apellidos <input type="text" name="apellidos"></p>
+            <p>Email <input type="text" name="email"></p>
+            <p><input type="radio" name="procesador" value="procesadorintel">Intel</p>
+            <p><input type="radio" name="procesador" value="procesadoramd">AMD</p>
+            <p>Elija una hora:<input type="time"></p>
+            <p><input type="checkbox" name="dia" value="dialunes">Lunes</p>
+            <p><input type="checkbox" name="dia" value="diamartes">Martes</p>
+            <p><input type="checkbox" name="dia" value="diamiercoles">Miércoles</p>
+            <p><input type="checkbox" name="dia" value="diajueves">Jueves</p>
+            <p><input type="checkbox" name="dia" value="diasabado">Sábado</p>
+            <p>Elija un fichero:<input type="file"></p>
+            <p>Elija una fecha:<input type="date"></p>
+        </fieldset>
+        <fieldset>
+            <legend>Indique sus preferencias por favor</legend>
+            <p><select name="ciclo" multiple>
+                <option value="smir">SMIR</option>
+                <option value="asir">ASIR</option>
+                <option value="dam">DAM</option>
+                <option value="daw">DAW</option>
+            </select></p>
+            <textarea name="" cols="52" rows="7" placeholder="Escriba aquí, por favor"></textarea>
+            <p><input type="radio" name="provincia" value="provinciaalbacete">Albacete</p>
+            <p><input type="radio" name="provincia" value="provinciaciudad_real">Ciudad Real</p>
+            <p><input type="radio" name="provincia" value="provinciacuenca">Cuenca</p>
+            <p><input type="radio" name="provincia" value="provinciaguadalajara">Guadalajara</p>
+            <p><input type="radio" name="provincia" value="provinciatoledo">Toledo</p>
+            <p>Elija una hora:<input type="time"></p>
+            <p>Elija un color:<input type="color"></p>
+        </fieldset>
+    </form>
 </body>
 </html>
