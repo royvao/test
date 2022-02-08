@@ -1,4 +1,5 @@
 span{
     background-color: blue;
     color: white;
+    box-sizing: content-box;
 }
