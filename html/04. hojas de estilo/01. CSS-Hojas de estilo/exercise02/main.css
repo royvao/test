@@ -4,29 +4,35 @@ body {
     font-family: Georgia, Cambria, serif;
     font-size: 16px;
 }
+
 h1 {
     color: #F00;
     font-family: Verdana, Calibri, sans-serif;
     font-size: 32px;
 }
-a{
+
+a {
     color: red;
     text-decoration: none;
 }
-a:hover{
+
+a:hover {
     color: #FFF;
     background-color: red;
     text-decoration: underline;
 }
-a:focus{
-    color:blue;
+
+a:active {
+    color: orange;
     text-decoration: none;
 }
-a:visited{
+
+a:visited {
     color: rgb(5, 98, 5);
     text-decoration: none;
 }
-a:active{
-color: orange;
-text-decoration: none;
+
+a:focus {
+    color: blue;
+    text-decoration: none;
 }
