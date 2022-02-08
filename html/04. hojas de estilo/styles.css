@@ -5,6 +5,7 @@ ol{
     color: rgb(1, 47, 248);;
 }
 li{
+    background: yellow;
     background-color: red;
 }
 ol:hover{
