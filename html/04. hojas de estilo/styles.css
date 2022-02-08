@@ -7,3 +7,6 @@ p{
 ol{
     color: rgb(128, 230, 248);;
 }
+ol:hover{
+    color: black;
+}
