@@ -6,7 +6,7 @@ ol{
 }
 li{
     background: yellow;
-    background-color: red;
+    /* background-color: red;*/
 }
 ol:hover{
     color:black;
