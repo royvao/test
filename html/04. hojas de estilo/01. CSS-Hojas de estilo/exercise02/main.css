@@ -9,3 +9,7 @@ h1 {
     font-family: Verdana, Calibri, sans-serif;
     font-size: 32px;
 }
+li{
+    text-decoration: red;
+    text-decoration: none;
+}
