@@ -9,7 +9,12 @@ h1 {
     font-family: Verdana, Calibri, sans-serif;
     font-size: 32px;
 }
-li{
+a{
     text-decoration: red;
     text-decoration: none;
+}
+a:hover{
+    color: #FFF;
+    background-color: red;
+    text-decoration: underline;
 }
