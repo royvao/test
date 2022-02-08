@@ -1,3 +1,9 @@
 body{
-    background-color: #00F;
+    background-color: #CFC;
+    color: #00F;
+}
+h1{
+color: #F00;
+font-family: Verdana, Calibri, sans-serif;
+font-size: 32px;
 }
