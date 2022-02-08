@@ -18,3 +18,8 @@ ul{
     color: #060;
     
 }
+span{
+    color: #FFF;
+    background: #000;
+    font-style: italic;
+}
