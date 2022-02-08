@@ -1,13 +1,12 @@
 .box1 {
     position: absolute;
-
     border: 2px solid black;
     width: 33%;
     height: 100px;
 }
 
 .box2 {
-    position: relative;
+    position: absolute;
     left: 34%;
     border: 2px solid black;
     width: 66%;
@@ -15,28 +14,35 @@
 }
 
 .box3 {
-    position: relative;
+    position: absolute;
+    bottom: 50%;
+
     border: 2px solid black;
     width: 25%;
     height: 100px;
 }
 
 .box4 {
-    position: relative;
+    position: absolute;
+    left: 26%;
+    bottom: 50%;
     border: 2px solid black;
     width: 50%;
     height: 100px;
 }
 
 .box5 {
-    position: relative;
+    position: absolute;
+    bottom: 50%;
+    left: 76%;
     border: 2px solid black;
     width: 25%;
     height: 100px;
 }
 
 .box6 {
-    position: relative;
+    position: absolute;
+    bottom: 10%;
     border: 2px solid black;
     width: 100%;
     height: 50px;
