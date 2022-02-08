@@ -2,5 +2,8 @@ p{
     font-style: oblique;
 }
 ol{
-    color: rgb(128, 230, 248);;
+    color: rgb(1, 47, 248);;
+}
+ol:hover{
+    color:black;
 }
