@@ -1,3 +1,9 @@
 body{
     background: red;
 }
+p{
+    font:sans-serif;
+}
+ol{
+    text-align: right;
+}
