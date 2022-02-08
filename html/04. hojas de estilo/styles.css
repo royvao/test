@@ -2,8 +2,8 @@ body{
     background: red;
 }
 p{
-    font:xx-large
+    font:xx-large;
 }
-li{
-    text-align: right;
+ol{
+    color: rgb(128, 230, 248);;
 }
