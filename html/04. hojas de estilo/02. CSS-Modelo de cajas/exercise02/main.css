@@ -1,0 +1,13 @@
+.box1 {
+    position: relative;
+    border: 2px solid black;
+    width: 33%;
+    height: 50px;
+}
+
+.box2 {
+    position: relative;
+    border: 2px solid black;
+    width: 66%;
+    height: 50px;
+}
