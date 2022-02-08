@@ -1,4 +1,6 @@
-span{
+div {
+    text-align: center;
+    width: 100px;
     background-color: blue;
     color: white;
     box-sizing: content-box;
