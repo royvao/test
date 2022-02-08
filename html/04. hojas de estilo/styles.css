@@ -4,6 +4,9 @@ p{
 ol{
     color: rgb(1, 47, 248);;
 }
+li{
+    background-color: red;
+}
 ol:hover{
     color:black;
 }
