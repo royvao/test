@@ -2,7 +2,7 @@ body{
     background: rgb(255, 114, 243);
 }
 p{
-    font:xx-large;
+    font-style: oblique;
 }
 ol{
     color: rgb(128, 230, 248);;
