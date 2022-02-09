@@ -1,2 +1,3 @@
 # test
-# Repositorio de prueba
+# Repositorio de GitHub
+# Para testeos y trabajos
