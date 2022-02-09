@@ -6,7 +6,7 @@ div {
     position: absolute;
     border: 2px solid black;
     width: 33%;
-    height: 100px;
+    padding-bottom: 5%;
 }
 
 .box2 {
@@ -14,7 +14,7 @@ div {
     left: 34%;
     border: 2px solid black;
     width: 66%;
-    height: 100px;
+    padding-bottom: 5%;
 }
 
 .box3 {
@@ -22,7 +22,7 @@ div {
     bottom: 30%;
     border: 2px solid black;
     width: 25%;
-    height: 500px;
+    padding-bottom: 25%;
 }
 
 .box4 {
@@ -31,7 +31,7 @@ div {
     bottom: 30%;
     border: 2px solid black;
     width: 50%;
-    height: 500px;
+    padding-bottom: 25%;
 }
 
 .box5 {
@@ -40,7 +40,7 @@ div {
     left: 76%;
     border: 2px solid black;
     width: 25%;
-    height: 500px;
+    padding-bottom: 25%;
 }
 
 .box6 {
@@ -48,5 +48,5 @@ div {
     bottom: 10%;
     border: 2px solid black;
     width: 100%;
-    height: 50px;
+    padding-bottom: 4%;
 }
