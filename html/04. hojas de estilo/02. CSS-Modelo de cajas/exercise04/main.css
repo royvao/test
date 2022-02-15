@@ -1,0 +1,13 @@
+.box1{
+    position: fixed;
+    width: 20%;
+    padding-bottom: 35%;
+    border: 2px solid black;
+    background: red;
+  }
+  .box2{
+    float: right;
+    width:75%;
+    padding-bottom: 35%;
+     border: 2px solid black;
+  }
