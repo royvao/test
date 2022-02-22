@@ -1,0 +1,17 @@
+#caja1 {
+    text-align: center;
+     background: blue;
+     color: white;
+   }
+   #caja2 {
+     color: black;
+     background: white;
+     border: 2px solid black;
+   }
+   a:hover{
+     background:yellow;
+   }
+   a:visited{
+     color:white;
+       background:grey;
+   }
