@@ -1,65 +1,75 @@
 body {
     background: aqua;
-  }
-  header {
+}
+
+header {
     text-align: center;
     background: blue;
     color: white;
     height: 50px;
     border: 1px solid black;
-  }
-  nav {
+}
+
+nav {
     color: black;
     background: white;
     height: 20px;
     border: 1px solid black;
-  }
-  .nav {
+}
+
+.nav {
     border: 1px solid black;
     background: lightblue;
     font-weight: bold;
-  }
-  .nav:hover {
+}
+
+.nav:hover {
     background: yellow;
-  }
-  .nav:visited {
+}
+
+.nav:visited {
     color: white;
     background: grey;
-  }
-  div,
-  article {
-    text-align:center;
+}
+
+div,
+article {
+    text-align: center;
     display: inline-block;
     margin: 5%;
-  }
-  main {
+}
+
+main {
     border: 5px solid blue;
     margin: 0.5%;
-  }
-  form{
-    margin:0.5%;
-  }
-  .boton{
+}
+
+form {
+    margin: 0.5%;
+}
+
+.boton {
     border: 2px solid black;
-    margin-left:30%;
-    height:50px;
-  }
-  aside {
+    margin-left: 30%;
+    height: 50px;
+}
+
+aside {
     float: left;
     width: 25%;
     margin: 0.5%;
     height: 500px;
     border: 5px solid blue;
-  }
-  footer {
+}
+
+footer {
     position: fixed;
     background: blue;
     text-align: center;
     color: white;
     width: 99%;
-  }
-  
-  a:link {
+}
+
+a:link {
     background: white;
-  }
-  
+}
