@@ -1,13 +1,92 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="main.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
     <title>EXAMEN</title>
-</head>
-<body>
-    
-</body>
+  </head>
+
+  <body>
+    <header>
+      <h1>Examen de HTML</h1>
+      <nav>
+        <a href="inicio.com">Inicio</a>
+        <a href="pagina1.com">Pagina 1</a>
+        <a href="google.com">Google</a>
+        <a href="Elpais.com">El pais</a>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <table border="1">
+          <tr>
+            <td colspan="3">A</td>
+          </tr>
+          <tr>
+            <td rowspan="2">b</td>
+            <td>d</td>
+            <td>f</td>
+          </tr>
+          <tr>
+            <td>g</td>
+            <td>h</td>
+          </tr>
+          <tr>
+            <td>c</td>
+            <td colspan="2">i</td>
+          </tr>
+          <tr>
+            <td colspan="4">j</td>
+          </tr>
+          <tr>
+            <td>k</td>
+            <td>l</td>
+            <td>m</td>
+          </tr>
+        </table>
+      </article>
+      <article>
+        <ul>
+          <li>Alumno 1</li>
+          <ul>
+            <li>Nota 1</li>
+            <ul>
+              <li>Observaciones</li>
+            </ul>
+            <li>Nota 2</li>
+            <li>Nota 3</li>
+          </ul>
+        </ul>
+      </article>
+      <article>
+        <form>
+          <p>Alumno <input type="text" /></p>
+          <p>
+            Curso 1<input type="radio" name="curso" />2<input
+              type="radio"
+              name="curso"
+            />3<input type="radio" name="curso" />
+          </p>
+          <p>
+            Edad
+            <select>
+              <option>16</option>
+              <option>17</option>
+              <option>18</option>
+              <option>19</option>
+              <option>20</option>
+            </select>
+          </p>
+          <p>
+            <input type="reset" class="boton" /><input
+              type="submit"
+              class="boton"
+            />
+          </p>
+        </form>
+      </article>
+    </main>
+  </body>
 </html>

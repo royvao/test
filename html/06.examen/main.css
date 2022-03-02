@@ -1,0 +1,56 @@
+header {
+    background: lightpink;
+    border: 2px solid black;
+    text-align: center;
+}
+
+nav {
+    background: pink;
+}
+
+a {
+    maring-left: 10%;
+    ;
+    text-align: center;
+}
+
+a:hover {
+    background: red;
+}
+
+nav, a, article {
+    border: 2px solid black;
+}
+
+table {
+    background: lightblue;
+    width: 90%;
+}
+
+table:hover {
+    background: lightgrey;
+}
+
+table, form, nav {
+    margin: 2%;
+}
+
+.boton {
+    margin-left: 10%;
+
+}
+
+main {
+    background: gold;
+    width: 100%;
+    float: left;
+    margin-top: 1%;
+    border: 2px solid black;
+}
+
+article {
+    background: moccasin;
+    float: right;
+    width: 75%;
+    margin: 2%;
+}
